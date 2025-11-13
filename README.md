@@ -49,7 +49,13 @@ python src/train.py
 Run infenrence with the trained model:
 python src/inference.py
 
+# Conclusions
 
+The project shows that while linear models provide a reasonable baseline, tree-based methods such as Random Forest capture the non-linear relationships in the data much more effectively.  
+The final model achieved an RMSE of ~2.80, demonstrating strong predictive performance and a stable end-to-end pipeline ready for deployment.
+
+
+# Author 
 Developed by Ariel Nuñez Valencia
 Data Science & Artificial Intelligence Student
 Focused on building clean, reproducible and production-oriented ML solutions.
